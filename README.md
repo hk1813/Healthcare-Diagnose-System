@@ -1,4 +1,4 @@
-This is the Heathcare Diagnosis System 
+This is the Heathcare Diagnosis System . 
 In this there are 3 models that predict the diseases according to your report or the dataset 
 These models are i.e. 
 1.  Diabetes Model
